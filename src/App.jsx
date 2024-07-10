@@ -8,7 +8,7 @@ function App() {
     <>
       <div>
       <p className="">
-        Hola World
+        <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id earum perferendis ab cupiditate fugiat. Pariatur beatae nisi, ab accusantium consequuntur, ullam expedita possimus, quisquam veritatis doloribus eum sit id velit.</h1>
       </p>
       </div>
       
