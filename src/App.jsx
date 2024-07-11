@@ -14,12 +14,13 @@ function App() {
     <>
     
       <div>
-        
-      <p className="">
+       <p className="">
         <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id earum perferendis ab cupiditate fugiat. Pariatur beatae nisi, ab accusantium consequuntur, ullam expedita possimus, quisquam veritatis doloribus eum sit id velit.</h1>
         <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque sunt consectetur ut, neque sed quis, est quibusdam mollitia incidunt quo atque architecto error. Illo minus aspernatur quisquam doloremque cum sed!</h3>
         <button variant= "primary">Aceptar</button>
-      </p>
+        
+       </p>
+       
       </div>
       
       
